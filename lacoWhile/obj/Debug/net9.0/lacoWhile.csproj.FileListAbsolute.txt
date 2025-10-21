@@ -1,0 +1,14 @@
+C:\Users\41932003886\Desktop\back-end\lacoWhile\bin\Debug\net9.0\lacoWhile.exe
+C:\Users\41932003886\Desktop\back-end\lacoWhile\bin\Debug\net9.0\lacoWhile.deps.json
+C:\Users\41932003886\Desktop\back-end\lacoWhile\bin\Debug\net9.0\lacoWhile.runtimeconfig.json
+C:\Users\41932003886\Desktop\back-end\lacoWhile\bin\Debug\net9.0\lacoWhile.dll
+C:\Users\41932003886\Desktop\back-end\lacoWhile\bin\Debug\net9.0\lacoWhile.pdb
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.AssemblyInfoInputs.cache
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.AssemblyInfo.cs
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.csproj.CoreCompileInputs.cache
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.dll
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\refint\lacoWhile.dll
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.pdb
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\lacoWhile.genruntimeconfig.cache
+C:\Users\41932003886\Desktop\back-end\lacoWhile\obj\Debug\net9.0\ref\lacoWhile.dll
