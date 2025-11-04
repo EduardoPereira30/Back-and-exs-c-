@@ -1,0 +1,15 @@
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\bin\Debug\net9.0\PrimeiraClass.exe
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\bin\Debug\net9.0\PrimeiraClass.deps.json
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\bin\Debug\net9.0\PrimeiraClass.runtimeconfig.json
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\bin\Debug\net9.0\PrimeiraClass.dll
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\bin\Debug\net9.0\PrimeiraClass.pdb
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.AssemblyInfoInputs.cache
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.AssemblyInfo.cs
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.csproj.CoreCompileInputs.cache
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.sourcelink.json
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.dll
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\refint\PrimeiraClass.dll
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.pdb
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\PrimeiraClass.genruntimeconfig.cache
+C:\Users\41932003886\Desktop\back-end\POO\PrimeiraClass\obj\Debug\net9.0\ref\PrimeiraClass.dll

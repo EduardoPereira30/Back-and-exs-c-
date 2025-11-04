@@ -1,0 +1,15 @@
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.AssemblyInfoInputs.cache
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.AssemblyInfo.cs
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.csproj.CoreCompileInputs.cache
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.sourcelink.json
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\bin\Debug\net9.0\ClassesEObjeto.exe
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\bin\Debug\net9.0\ClassesEObjeto.deps.json
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\bin\Debug\net9.0\ClassesEObjeto.runtimeconfig.json
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\bin\Debug\net9.0\ClassesEObjeto.dll
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\bin\Debug\net9.0\ClassesEObjeto.pdb
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.dll
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\refint\ClassesEObjeto.dll
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.pdb
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ClassesEObjeto.genruntimeconfig.cache
+C:\Users\41932003886\Desktop\back-end\POO\ClassesEObjeto\obj\Debug\net9.0\ref\ClassesEObjeto.dll
