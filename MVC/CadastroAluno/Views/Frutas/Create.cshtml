@@ -1,0 +1,23 @@
+@model CadastroAluno.Models.Fruta;
+
+<h1>Cadastro De Fruta</h1>
+<form asp-action="Create" class="post">
+
+    <label> Nome : </label>
+    <input asp-for="Nome" class="form-control">
+
+    <br>
+    <label> Cor : </label>
+    <input asp-for="Cor" class="form-control">
+
+    <br>
+    <label> Categoria :</label>
+    <input asp-for="Categoria" class="form-control">
+
+    <br>
+
+    <button class="btn btn-sucess">Salvar </button>
+
+
+
+</form>
